@@ -297,3 +297,7 @@ INSERT INTO "dcicv" ( "dcicv", "doze", "name", "categoria", "grupo", "subgrupo")
 INSERT INTO "dcicv" ( "dcicv", "doze", "name", "categoria", "grupo", "subgrupo") VALUES ( 'COLU-HEXTRIL', 'spray bucal', 'Hexetina', NULL, NULL, NULL);
 INSERT INTO "dcicv" ( "dcicv", "doze", "name", "categoria", "grupo", "subgrupo") VALUES ( 'DAKTARIN GEL', 'gel oral', 'Miconazol', NULL, NULL, NULL);
 INSERT INTO "dcicv" ( "dcicv", "doze", "name", "categoria", "grupo", "subgrupo") VALUES ( '', 'gotas', 'Nistatina', NULL, NULL, NULL);
+
+INSERT INTO "dcicv" ( "dcicv", "doze", "name", "categoria", "grupo", "subgrupo") VALUES ( 'Benzilpenicilina s?dica', 'Solu??o inject?vel, extempor?nea:1.000.000 U.I ; IM e IV (600 mg), Solu??o inject?vel, extempor?nea: 5.000.000 U.I ; I.M-I.V (3 g)', 'Benzilpenicilina s?dica', 'Anti-infeciosos', 'Antibacterianos', 'Penicilinas');
+INSERT INTO "dcicv" ( "dcicv", "doze", "name", "categoria", "grupo", "subgrupo") VALUES ( 'Benzatina', 'Suspens?o inject?vel, extempor?nea: 1.200.000U.I-I.M,Suspens?o inject?vel, extempor?nea: 2.400.000 U.I.-I.M( 1,44 g)', 'Benzilpenicilina Benzat?nica', 'Anti-infeciosos', 'Antibacterianos', 'Penicilinas');
+INSERT INTO "dcicv" ( "dcicv", "doze", "name", "categoria", "grupo", "subgrupo") VALUES ( 'Proca?na', 'Suspens?o inject?vel: 1.000.000 U.I.-I.M ( 1 g )', 'Benzilpenicilina proca?nica', 'Anti-infeciosos', 'Antibacterianos', 'Penicilinas');
